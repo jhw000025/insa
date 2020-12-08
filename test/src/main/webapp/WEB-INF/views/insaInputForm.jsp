@@ -22,7 +22,9 @@
 			<tbody>
 				<tr>
 					<td rowspan = "6">
+						<!-- 일단 이렇게 정리해야됨. -->
 						<img id = "img">
+						<input type = "file" accept = "image/jsp,image/png,image/jpeg"/>
 					</td>
 					<td></td>
 					<td></td>
